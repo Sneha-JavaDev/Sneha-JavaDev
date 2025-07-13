@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
+![Profile views](https://komarev.com/ghpvc/?username=Sneha-109&color=blue)
 - 🔭 I’m currently working on **Java Full Stack Development**
 - 🌱 I’m currently learning **React Native & SpringBoot**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
@@ -26,7 +26,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=Sneha-109&color=blue)
+
 ### Front-End:
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
