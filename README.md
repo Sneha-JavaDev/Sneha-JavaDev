@@ -1,12 +1,4 @@
-<img align="left" src="![WhatsApp Image 2025-07-10 at 10 45 38_d547935d](https://github.com/user-attachments/assets/0b2c11cd-b83b-4f19-86d7-afef4751052f)
-" width="150" style="border-radius:50%" />
 
-# Your Name  
-your-username • she/her  
-🔭 Full Stack Java Developer || Web Developer  
-📚 Java || Python || DSA || JSP || MySQL  
-🚀 SpringBoot || React.js || Tech Enthusiast  
-🌟 SIH'24 || Open Source  
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
