@@ -12,7 +12,7 @@
 ---
 
 ### 📲 Connect with me:
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
 
 
 
