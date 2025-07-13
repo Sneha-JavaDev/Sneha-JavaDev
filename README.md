@@ -6,14 +6,15 @@
 - 🌱 I’m currently learning **React Native & SpringBoot**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 💬 Ask me about **React, JavaScript, SpringBoot, JDBC, MySQL**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **mondalsneha2204@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
 
 ---
 
 ### 📲 Connect with me:
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-mondal-67b642361
 
+/)
 
 
 ---
