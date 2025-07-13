@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-![Profile views](https://komarev.com/ghpvc/?username=Sneha-109&color=blue)
+
 - 🔭 I’m currently working on **Java Full Stack Development**
 - 🌱 I’m currently learning **React Native & SpringBoot**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
