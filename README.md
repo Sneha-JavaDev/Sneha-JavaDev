@@ -12,8 +12,6 @@
 
 ### 📲 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
 
 ---
 
